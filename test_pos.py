@@ -1,7 +1,7 @@
 # import a
-from a import *
+from module import *
 if __name__ == '__main__':
-    
+
     servo_id = 0
     # b3m = serial.Serial('COM6', baudrate=9600,parity=serial.PARITY_NONE, timeout=2)
     ###毎回これやる################################
