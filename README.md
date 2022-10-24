@@ -1,6 +1,10 @@
 # B3Mモータの実験自動化ツール
 B3Mモータを動かすと同時にデータ記録を行う
 
+# pC側の設定
+まずはPCとモータを接続するための設定をする必要があります。
+(公式サイト)[https://kondo-robot.com/faq/b3m_settings1]を見たら設定できると思います。
+
 
 
 # 必須ライブラリ
@@ -44,7 +48,9 @@ pd_log.pyファイルにより、モータのpd制御とデータの記録を同
 git clone https://github.com/oshima-yoppi/motor_experiment.git
 python pd_log.py
 ```
+## プログラムの詳細説明
 
+さらに詳細な説明を知りたい場合は(公式サイト)[https://kondo-robot.com/faq/b3m_tutorial_py1]を参考にしてください。プログラムの詳細説明が載っていると思います。
 
 # Author
 
