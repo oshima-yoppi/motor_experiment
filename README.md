@@ -3,7 +3,7 @@ B3Mモータを動かすと同時にデータ記録を行う
 
 # pC側の設定
 まずはPCとモータを接続するための設定をする必要があります。
-(公式サイト)[https://kondo-robot.com/faq/b3m_settings1]を見たら設定できると思います。
+(公式サイト)[https://kondo-robot.com/faq/b3m_settings1] を見たら設定できると思います。
 
 
 
